@@ -1,1 +1,1 @@
-# first-web-extension
+# reading-time-web-extension
